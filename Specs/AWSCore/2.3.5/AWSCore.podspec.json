@@ -9,7 +9,8 @@
     "Amazon Web Services": "amazonwebservices"
   },
   "platforms": {
-    "ios": "7.0"
+    "ios": "7.0",
+    "osx": "10.11"
   },
   "source": {
     "git": "https://github.com/aws/aws-sdk-ios.git",
